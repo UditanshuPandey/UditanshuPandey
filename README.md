@@ -1,6 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif)]
+![MasterHead](https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif)
 <h1 align="center">Hi 👋, I'm Uditanshu Pandey</h1>
-<h3 align="center">ata Analyst with Front-end Expertise in HTML/CSS/Bootstrap and Backend Proficiency in Django/Flask</h3>
+<h3 align="center">Data Analyst with Front-end Expertise in HTML/CSS/Bootstrap and Backend Proficiency in Django/Flask</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
