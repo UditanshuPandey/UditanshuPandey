@@ -1,4 +1,4 @@
-![MasterHead]([https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Uditanshu Pandey</h1>
 <h3 align="center">Data Analyst with Front-end Expertise in HTML/CSS/Bootstrap and Backend Proficiency in Django/Flask</h3>
 
